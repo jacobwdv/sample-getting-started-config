@@ -1,5 +1,5 @@
 version: 1.0
-app: 
+app:
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
@@ -41,7 +41,7 @@ app:
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
   #    region: us-east-1
-  version: "9217ce67-4435-49b2-9483-bf102c5edaf1"
+  version: "3cacf351-cb34-43d5-bd7c-8c1e3125d1da"
 # probes
 # dynamic scaling
 # scaling to 0
