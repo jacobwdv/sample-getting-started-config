@@ -7,6 +7,7 @@ app:
   version: "04355ba0-32d2-4043-b5ba-6b1467e0bcec"
 
   # configure endpoints
+  
   endpoints: public
 
   # number of instances
